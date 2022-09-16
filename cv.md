@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am 33 years old. For the last 10 years I have been working in logistics and I feel that the time has come to change jobs and change my life. Front-end development is why I'm here now. I see myself in this area in the future. I am very motivated, determined to complete the entire course and get a job in the future. Hope I can do it.
+I am 34 years old. For the last 10 years I have been working in logistics and I feel that the time has come to change jobs and change my life. Front-end development is why I'm here now. I see myself in this area in the future. I am very motivated, determined to complete the entire course and get a job in the future. Hope I can do it.
 
 ## Skills
 
